@@ -34,3 +34,17 @@ puts 'I told my friend "You need to learn how to code" and he agreed'
 puts 'I am 5\'11" tall'
 
 puts "I am 5'11\" tall"
+
+age = nil
+if age.nil?
+	puts "I have no idea how old are you"
+else 
+	puts "I'm #{age} years old"
+end
+
+age = 28
+if age.nil?
+	puts "I have no idea how old are you"
+else 
+	puts "I'm #{age} years old"
+end
