@@ -28,7 +28,7 @@ puts "I will leave no later than " + hour.to_s
 puts "I will leave no later than #{hour}" 
 #This is an interpolation
 
-#This is a "Single vs Double Quotes" excercise
+#This is a "Single vs Double Quotes" exercise
 puts 'I told my friend "You need to learn how to code" and he agreed'
 
 puts 'I am 5\'11" tall'
