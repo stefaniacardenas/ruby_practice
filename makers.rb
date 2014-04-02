@@ -37,7 +37,7 @@ puts "I am 5'11\" tall"
 
 #I'm trying to get around the concept of nil. Nil is nothing.
 age = nil
-if age.nil?
+if age.nil? #I'm calling the nil method
 	puts "I have no idea how old are you"
 else 
 	puts "I'm #{age} years old"
