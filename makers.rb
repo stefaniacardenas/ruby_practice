@@ -25,5 +25,12 @@ hour = 10
 puts "I will leave no later than " + hour.to_s
 #This is not an interpolation, this is a method.
 
-puts "I will leave no later than #{hour}"
+puts "I will leave no later than #{hour}" 
 #This is an interpolation
+
+#This is a "Single vs Double Quotes" excercise
+puts 'I told my friend "You need to learn how to code" and he agreed'
+
+puts 'I am 5\'11" tall'
+
+puts "I am 5'11\" tall"
