@@ -23,5 +23,7 @@ puts "2 + 2 = #{2 + 2}"
 #Here I will change a number into a string using .to_s
 hour = 10
 puts "I will leave no later than " + hour.to_s
+#This is not an interpolation, this is a method.
 
-
+puts "I will leave no later than #{hour}"
+#This is an interpolation
